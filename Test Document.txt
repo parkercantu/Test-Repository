@@ -1,2 +1,3 @@
 This is the initial line of the document
 This line will be added from the WorkingCopy branch
+Third This is the second commit from the WorkingCopy branch

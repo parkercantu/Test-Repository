@@ -1,1 +1,2 @@
 This is the initial line of the document
+This line will be added from the WorkingCopy branch
